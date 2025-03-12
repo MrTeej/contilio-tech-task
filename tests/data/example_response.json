@@ -1,0 +1,1304 @@
+{
+    "url": "https://transportapi.com/v3/uk/train/station_timetables/crs%3ALBG.json?datetime=2024-08-04T15%3A23%3A18%2B01%3A00&from_offset=PT00%3A30%3A00&to_offset=PT01%3A30%3A00&limit=1000&live=true&train_status=passenger&station_detail=destination&type=departure&app_key=97089d7ffa372eea52a6c828d9e2f18e&app_id=acbc2224",
+    "date": "2024-08-04",
+    "time_of_day": "15:23",
+    "request_time": "2025-03-11T15:03:22+00:00",
+    "station_name": "London Bridge",
+    "station_code": "crs:LBG",
+    "departures": {
+        "all": [
+            {
+                "mode": "train",
+                "service": "24602004",
+                "train_uid": "P94746",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:54",
+                "aimed_arrival_time": "15:52",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Sevenoaks",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P94746:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Sevenoaks",
+                        "platform": "3",
+                        "station_code": "SEV",
+                        "tiploc_code": "SVNOAKS",
+                        "aimed_arrival_time": "16:20",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:52",
+                "expected_departure_time": "15:54",
+                "best_arrival_estimate_mins": 28,
+                "best_departure_estimate_mins": 30
+            },
+            {
+                "mode": "train",
+                "service": "22720000",
+                "train_uid": "G54567",
+                "platform": "4",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "15:55",
+                "aimed_arrival_time": "15:54",
+                "aimed_pass_time": null,
+                "origin_name": "Bedford",
+                "destination_name": "Horsham",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54567:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Horsham",
+                        "platform": "3",
+                        "station_code": "HRH",
+                        "tiploc_code": "HORSHAM",
+                        "aimed_arrival_time": "17:06",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "15:54",
+                "expected_departure_time": "15:55",
+                "best_arrival_estimate_mins": 30,
+                "best_departure_estimate_mins": 31
+            },
+            {
+                "mode": "train",
+                "service": "24653005",
+                "train_uid": "P98536",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:57",
+                "aimed_arrival_time": "15:55",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Hayes (Kent)",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P98536:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Hayes (Kent)",
+                        "platform": "2",
+                        "station_code": "HYS",
+                        "tiploc_code": "HAYS",
+                        "aimed_arrival_time": "16:33",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:55",
+                "expected_departure_time": "15:57",
+                "best_arrival_estimate_mins": 31,
+                "best_departure_estimate_mins": 33
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P94477",
+                "platform": "9",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:57",
+                "aimed_arrival_time": "15:55",
+                "aimed_pass_time": null,
+                "origin_name": "Gravesend",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P94477:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "2",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:05",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "15:55",
+                "expected_departure_time": "15:57",
+                "best_arrival_estimate_mins": 31,
+                "best_departure_estimate_mins": 33
+            },
+            {
+                "mode": "train",
+                "service": "24783000",
+                "train_uid": "P87063",
+                "platform": "12",
+                "operator": "SN",
+                "operator_name": "Southern",
+                "aimed_departure_time": "15:58",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Bridge",
+                "destination_name": "London Victoria",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P87063:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Victoria (C) (Tps Indic. Only)",
+                        "platform": "10",
+                        "station_code": "VIC",
+                        "tiploc_code": "VICTRIC",
+                        "aimed_arrival_time": "16:54",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "STARTS HERE",
+                "expected_arrival_time": null,
+                "expected_departure_time": "15:58",
+                "best_arrival_estimate_mins": null,
+                "best_departure_estimate_mins": 34
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P95248",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:59",
+                "aimed_arrival_time": "15:57",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Gravesend",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P95248:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Gravesend",
+                        "platform": "0",
+                        "station_code": "GRV",
+                        "tiploc_code": "GRVSEND",
+                        "aimed_arrival_time": "16:55",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:57",
+                "expected_departure_time": "15:59",
+                "best_arrival_estimate_mins": 33,
+                "best_departure_estimate_mins": 35
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54304",
+                "platform": "5",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "15:59",
+                "aimed_arrival_time": "15:58",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54304:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "17:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "15:58",
+                "expected_departure_time": "15:59",
+                "best_arrival_estimate_mins": 34,
+                "best_departure_estimate_mins": 35
+            },
+            {
+                "mode": "train",
+                "service": "24655005",
+                "train_uid": "P97814",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:10",
+                "aimed_arrival_time": "16:08",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Sevenoaks",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97814:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Sevenoaks",
+                        "platform": "2",
+                        "station_code": "SEV",
+                        "tiploc_code": "SVNOAKS",
+                        "aimed_arrival_time": "16:58",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:08",
+                "expected_departure_time": "16:10",
+                "best_arrival_estimate_mins": 44,
+                "best_departure_estimate_mins": 46
+            },
+            {
+                "mode": "train",
+                "service": "24655005",
+                "train_uid": "P96480",
+                "platform": "8",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:11",
+                "aimed_arrival_time": "16:09",
+                "aimed_pass_time": null,
+                "origin_name": "Sevenoaks",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96480:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "2",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:21",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "16:09",
+                "expected_departure_time": "16:11",
+                "best_arrival_estimate_mins": 45,
+                "best_departure_estimate_mins": 47
+            },
+            {
+                "mode": "train",
+                "service": "24786000",
+                "train_uid": "P86081",
+                "platform": "11",
+                "operator": "SN",
+                "operator_name": "Southern",
+                "aimed_departure_time": "16:12",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Bridge",
+                "destination_name": "Caterham",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P86081:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Caterham",
+                        "platform": "1",
+                        "station_code": "CAT",
+                        "tiploc_code": "CATERHM",
+                        "aimed_arrival_time": "16:54",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "STARTS HERE",
+                "expected_arrival_time": null,
+                "expected_departure_time": "16:12",
+                "best_arrival_estimate_mins": null,
+                "best_departure_estimate_mins": 48
+            },
+            {
+                "mode": "train",
+                "service": "24602004",
+                "train_uid": "P94752",
+                "platform": "9",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:13",
+                "aimed_arrival_time": "16:11",
+                "aimed_pass_time": null,
+                "origin_name": "Sevenoaks",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P94752:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "6",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:21",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:11",
+                "expected_departure_time": "16:13",
+                "best_arrival_estimate_mins": 47,
+                "best_departure_estimate_mins": 49
+            },
+            {
+                "mode": "train",
+                "service": "24787000",
+                "train_uid": "P87444",
+                "platform": "14",
+                "operator": "SN",
+                "operator_name": "Southern",
+                "aimed_departure_time": "16:14",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Bridge",
+                "destination_name": "East Croydon",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P87444:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "East Croydon",
+                        "platform": "5",
+                        "station_code": "ECR",
+                        "tiploc_code": "ECROYDN",
+                        "aimed_arrival_time": "16:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "STARTS HERE",
+                "expected_arrival_time": null,
+                "expected_departure_time": "16:14",
+                "best_arrival_estimate_mins": null,
+                "best_departure_estimate_mins": 50
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97305",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:15",
+                "aimed_arrival_time": "16:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97305:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "16:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:13",
+                "expected_departure_time": "16:15",
+                "best_arrival_estimate_mins": 49,
+                "best_departure_estimate_mins": 51
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P95906",
+                "platform": "8",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:16",
+                "aimed_arrival_time": "16:14",
+                "aimed_pass_time": null,
+                "origin_name": "Dartford",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P95906:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "4",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:24",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:14",
+                "expected_departure_time": "16:16",
+                "best_arrival_estimate_mins": 50,
+                "best_departure_estimate_mins": 52
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54315",
+                "platform": "4",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:18",
+                "aimed_arrival_time": "16:17",
+                "aimed_pass_time": null,
+                "origin_name": "Luton",
+                "destination_name": "Rainham (Kent)",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54315:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Rainham (Kent)",
+                        "platform": "0",
+                        "station_code": "RAI",
+                        "tiploc_code": "RAINHMK",
+                        "aimed_arrival_time": "17:45",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "16:17",
+                "expected_departure_time": "16:18",
+                "best_arrival_estimate_mins": 53,
+                "best_departure_estimate_mins": 54
+            },
+            {
+                "mode": "train",
+                "service": "24653005",
+                "train_uid": "P97019",
+                "platform": "9",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:20",
+                "aimed_arrival_time": "16:18",
+                "aimed_pass_time": null,
+                "origin_name": "Hayes (Kent)",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97019:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "3",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:28",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:18",
+                "expected_departure_time": "16:20",
+                "best_arrival_estimate_mins": 54,
+                "best_departure_estimate_mins": 56
+            },
+            {
+                "mode": "train",
+                "service": "22729000",
+                "train_uid": "G54441",
+                "platform": "5",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:21",
+                "aimed_arrival_time": "16:20",
+                "aimed_pass_time": null,
+                "origin_name": "Three Bridges",
+                "destination_name": "Bedford",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54441:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Bedford",
+                        "platform": "2",
+                        "station_code": "BDM",
+                        "tiploc_code": "BEDFDM",
+                        "aimed_arrival_time": "17:38",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:20",
+                "expected_departure_time": "16:21",
+                "best_arrival_estimate_mins": 56,
+                "best_departure_estimate_mins": 57
+            },
+            {
+                "mode": "train",
+                "service": "24602004",
+                "train_uid": "P94749",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:24",
+                "aimed_arrival_time": "16:22",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Sevenoaks",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P94749:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Sevenoaks",
+                        "platform": "3",
+                        "station_code": "SEV",
+                        "tiploc_code": "SVNOAKS",
+                        "aimed_arrival_time": "16:50",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:22",
+                "expected_departure_time": "16:24",
+                "best_arrival_estimate_mins": 58,
+                "best_departure_estimate_mins": 60
+            },
+            {
+                "mode": "train",
+                "service": "22721000",
+                "train_uid": "G50608",
+                "platform": "5",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:25",
+                "aimed_arrival_time": "16:23",
+                "aimed_pass_time": null,
+                "origin_name": "Brighton",
+                "destination_name": "Cambridge",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G50608:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Cambridge",
+                        "platform": "7",
+                        "station_code": "CBG",
+                        "tiploc_code": "CAMBDGE",
+                        "aimed_arrival_time": "17:48",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "16:23",
+                "expected_departure_time": "16:25",
+                "best_arrival_estimate_mins": 59,
+                "best_departure_estimate_mins": 61
+            },
+            {
+                "mode": "train",
+                "service": "22720000",
+                "train_uid": "G54436",
+                "platform": "4",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:25",
+                "aimed_arrival_time": "16:24",
+                "aimed_pass_time": null,
+                "origin_name": "Bedford",
+                "destination_name": "Three Bridges",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54436:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Three Bridges",
+                        "platform": "1",
+                        "station_code": "TBD",
+                        "tiploc_code": "THBDGS",
+                        "aimed_arrival_time": "17:15",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "16:24",
+                "expected_departure_time": "16:25",
+                "best_arrival_estimate_mins": 60,
+                "best_departure_estimate_mins": 61
+            },
+            {
+                "mode": "train",
+                "service": "24653005",
+                "train_uid": "P98539",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:27",
+                "aimed_arrival_time": "16:25",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Hayes (Kent)",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P98539:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Hayes (Kent)",
+                        "platform": "2",
+                        "station_code": "HYS",
+                        "tiploc_code": "HAYS",
+                        "aimed_arrival_time": "17:03",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:25",
+                "expected_departure_time": "16:27",
+                "best_arrival_estimate_mins": 61,
+                "best_departure_estimate_mins": 63
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P94480",
+                "platform": "9",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:27",
+                "aimed_arrival_time": "16:25",
+                "aimed_pass_time": null,
+                "origin_name": "Gravesend",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P94480:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "2",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:35",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:25",
+                "expected_departure_time": "16:27",
+                "best_arrival_estimate_mins": 61,
+                "best_departure_estimate_mins": 63
+            },
+            {
+                "mode": "train",
+                "service": "24783000",
+                "train_uid": "P87069",
+                "platform": "12",
+                "operator": "SN",
+                "operator_name": "Southern",
+                "aimed_departure_time": "16:28",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Bridge",
+                "destination_name": "London Victoria",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P87069:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Victoria (C) (Tps Indic. Only)",
+                        "platform": "10",
+                        "station_code": "VIC",
+                        "tiploc_code": "VICTRIC",
+                        "aimed_arrival_time": "17:24",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "STARTS HERE",
+                "expected_arrival_time": null,
+                "expected_departure_time": "16:28",
+                "best_arrival_estimate_mins": null,
+                "best_departure_estimate_mins": 64
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P95151",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:29",
+                "aimed_arrival_time": "16:27",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Gravesend",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P95151:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Gravesend",
+                        "platform": "0",
+                        "station_code": "GRV",
+                        "tiploc_code": "GRVSEND",
+                        "aimed_arrival_time": "17:25",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:27",
+                "expected_departure_time": "16:29",
+                "best_arrival_estimate_mins": 63,
+                "best_departure_estimate_mins": 65
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54310",
+                "platform": "5",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:29",
+                "aimed_arrival_time": "16:28",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54310:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "17:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "16:28",
+                "expected_departure_time": "16:29",
+                "best_arrival_estimate_mins": 64,
+                "best_departure_estimate_mins": 65
+            },
+            {
+                "mode": "train",
+                "service": "24655005",
+                "train_uid": "P97819",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:40",
+                "aimed_arrival_time": "16:38",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Sevenoaks",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97819:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Sevenoaks",
+                        "platform": "2",
+                        "station_code": "SEV",
+                        "tiploc_code": "SVNOAKS",
+                        "aimed_arrival_time": "17:28",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:38",
+                "expected_departure_time": "16:40",
+                "best_arrival_estimate_mins": 74,
+                "best_departure_estimate_mins": 76
+            },
+            {
+                "mode": "train",
+                "service": "24655005",
+                "train_uid": "P96485",
+                "platform": "8",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:41",
+                "aimed_arrival_time": "16:39",
+                "aimed_pass_time": null,
+                "origin_name": "Sevenoaks",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96485:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "2",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:51",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:39",
+                "expected_departure_time": "16:41",
+                "best_arrival_estimate_mins": 75,
+                "best_departure_estimate_mins": 77
+            },
+            {
+                "mode": "train",
+                "service": "24786000",
+                "train_uid": "P86083",
+                "platform": "11",
+                "operator": "SN",
+                "operator_name": "Southern",
+                "aimed_departure_time": "16:42",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Bridge",
+                "destination_name": "Caterham",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P86083:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Caterham",
+                        "platform": "1",
+                        "station_code": "CAT",
+                        "tiploc_code": "CATERHM",
+                        "aimed_arrival_time": "17:24",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "STARTS HERE",
+                "expected_arrival_time": null,
+                "expected_departure_time": "16:42",
+                "best_arrival_estimate_mins": null,
+                "best_departure_estimate_mins": 78
+            },
+            {
+                "mode": "train",
+                "service": "24602004",
+                "train_uid": "P94755",
+                "platform": "9",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:43",
+                "aimed_arrival_time": "16:41",
+                "aimed_pass_time": null,
+                "origin_name": "Sevenoaks",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P94755:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "6",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:51",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:41",
+                "expected_departure_time": "16:43",
+                "best_arrival_estimate_mins": 77,
+                "best_departure_estimate_mins": 79
+            },
+            {
+                "mode": "train",
+                "service": "24605004",
+                "train_uid": "J30188",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:43",
+                "aimed_arrival_time": "16:41",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Ramsgate",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/J30188:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Ramsgate",
+                        "platform": "1",
+                        "station_code": "RAM",
+                        "tiploc_code": "RAMSGTE",
+                        "aimed_arrival_time": "18:47",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:41",
+                "expected_departure_time": "16:43",
+                "best_arrival_estimate_mins": 77,
+                "best_departure_estimate_mins": 79
+            },
+            {
+                "mode": "train",
+                "service": "24787000",
+                "train_uid": "P87449",
+                "platform": "14",
+                "operator": "SN",
+                "operator_name": "Southern",
+                "aimed_departure_time": "16:44",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "London Bridge",
+                "destination_name": "East Croydon",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P87449:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "East Croydon",
+                        "platform": "5",
+                        "station_code": "ECR",
+                        "tiploc_code": "ECROYDN",
+                        "aimed_arrival_time": "17:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "STARTS HERE",
+                "expected_arrival_time": null,
+                "expected_departure_time": "16:44",
+                "best_arrival_estimate_mins": null,
+                "best_departure_estimate_mins": 80
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97313",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:45",
+                "aimed_arrival_time": "16:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97313:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "17:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:43",
+                "expected_departure_time": "16:45",
+                "best_arrival_estimate_mins": 79,
+                "best_departure_estimate_mins": 81
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P95920",
+                "platform": "8",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:46",
+                "aimed_arrival_time": "16:44",
+                "aimed_pass_time": null,
+                "origin_name": "Dartford",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P95920:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "4",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:54",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:44",
+                "expected_departure_time": "16:46",
+                "best_arrival_estimate_mins": 80,
+                "best_departure_estimate_mins": 82
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54321",
+                "platform": "4",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:48",
+                "aimed_arrival_time": "16:47",
+                "aimed_pass_time": null,
+                "origin_name": "Luton",
+                "destination_name": "Rainham (Kent)",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54321:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Rainham (Kent)",
+                        "platform": "0",
+                        "station_code": "RAI",
+                        "tiploc_code": "RAINHMK",
+                        "aimed_arrival_time": "18:15",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:47",
+                "expected_departure_time": "16:48",
+                "best_arrival_estimate_mins": 83,
+                "best_departure_estimate_mins": 84
+            },
+            {
+                "mode": "train",
+                "service": "24653005",
+                "train_uid": "P96800",
+                "platform": "9",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:50",
+                "aimed_arrival_time": "16:48",
+                "aimed_pass_time": null,
+                "origin_name": "Hayes (Kent)",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96800:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "3",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "16:58",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:48",
+                "expected_departure_time": "16:50",
+                "best_arrival_estimate_mins": 84,
+                "best_departure_estimate_mins": 86
+            },
+            {
+                "mode": "train",
+                "service": "22729000",
+                "train_uid": "G54570",
+                "platform": "5",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:51",
+                "aimed_arrival_time": "16:50",
+                "aimed_pass_time": null,
+                "origin_name": "Horsham",
+                "destination_name": "Bedford",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54570:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Bedford",
+                        "platform": "2",
+                        "station_code": "BDM",
+                        "tiploc_code": "BEDFDM",
+                        "aimed_arrival_time": "18:08",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:50",
+                "expected_departure_time": "16:51",
+                "best_arrival_estimate_mins": 86,
+                "best_departure_estimate_mins": 87
+            },
+            {
+                "mode": "train",
+                "service": "22726100",
+                "train_uid": "G54509",
+                "platform": "4",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:51",
+                "aimed_arrival_time": "16:50",
+                "aimed_pass_time": null,
+                "origin_name": "Cambridge",
+                "destination_name": "Brighton",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54509:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Brighton",
+                        "platform": "3",
+                        "station_code": "BTN",
+                        "tiploc_code": "BRGHTN",
+                        "aimed_arrival_time": "17:53",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:50",
+                "expected_departure_time": "16:51",
+                "best_arrival_estimate_mins": 86,
+                "best_departure_estimate_mins": 87
+            },
+            {
+                "mode": "train",
+                "service": "24605004",
+                "train_uid": "J30190",
+                "platform": "8",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:52",
+                "aimed_arrival_time": "16:50",
+                "aimed_pass_time": null,
+                "origin_name": "Ramsgate",
+                "destination_name": "London Charing Cross",
+                "source": "Network Rail",
+                "category": "XX",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/J30190:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Charing Cross",
+                        "platform": "5",
+                        "station_code": "CHX",
+                        "tiploc_code": "CHRX",
+                        "aimed_arrival_time": "17:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "16:50",
+                "expected_departure_time": "16:52",
+                "best_arrival_estimate_mins": 86,
+                "best_departure_estimate_mins": 88
+            }
+        ]
+    }
+}

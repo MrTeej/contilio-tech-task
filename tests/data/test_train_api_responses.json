@@ -1,0 +1,71 @@
+{
+    "normal_case": {
+        "api_response": {
+            "date": "2024-08-03",
+            "request_time": "2024-08-03T12:00:00Z",
+            "station_code": "crs:LBG",
+            "departures": {
+                "all": [
+                    {
+                        "expected_departure_time": "18:30",
+                        "expected_arrival_time": "19:15",
+                        "station_detail": {
+                            "destination": {
+                                "station_code": "DFD",
+                                "aimed_arrival_time": "19:20"
+                            }
+                        },
+                        "status": "ON TIME"
+                    }
+                ]
+            }
+        },
+        "expected_arrival_adjusted": false
+    },
+    "crossing_midnight_case": {
+        "api_response": {
+            "date": "2024-08-03",
+            "request_time": "2024-08-03T23:30:00Z",
+            "station_code": "crs:LBG",
+            "departures": {
+                "all": [
+                    {
+                        "expected_departure_time": "23:45",
+                        "expected_arrival_time": "00:05",
+                        "station_detail": {
+                            "destination": {
+                                "station_code": "DFD",
+                                "aimed_arrival_time": "00:15"
+                            }
+                        },
+                        "status": "ON TIME"
+                    }
+                ]
+            }
+        },
+        "expected_arrival_adjusted": true
+    },
+    "train_starts_here": {
+        "api_response": {
+            "date": "2024-08-03",
+            "request_time": "2024-08-03T10:00:00Z",
+            "station_code": "crs:LBG",
+            "departures": {
+                "all": [
+                    {
+                        "expected_departure_time": "10:30",
+                        "expected_arrival_time": null,
+                        "station_detail": {
+                            "destination": {
+                                "station_code": "DFD",
+                                "aimed_arrival_time": "11:15"
+                            }
+                        },
+                        "status": "STARTS HERE"
+                    }
+                ]
+            }
+        },
+        "expected_arrival_adjusted": false
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "date": "2024-08-03",
+    "time_of_day": "00:00",
+    "request_time": "2025-03-12T02:48:24+00:00",
+    "station_name": "Dartford",
+    "station_code": "crs:DFD",
+    "departures": {
+        "all": [
+            {
+                "mode": "train",
+                "service": "24659005",
+                "train_uid": "P95830",
+                "platform": "3",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:39",
+                "aimed_arrival_time": null,
+                "aimed_pass_time": null,
+                "origin_name": "Dartford",
+                "destination_name": "London Bridge",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P95830:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "London Bridge",
+                        "platform": "2",
+                        "station_code": "LBG",
+                        "tiploc_code": "LNDNBDE",
+                        "aimed_arrival_time": "00:21",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "STARTS HERE",
+                "expected_arrival_time": null,
+                "expected_departure_time": "23:39",
+                "best_arrival_estimate_mins": null,
+                "best_departure_estimate_mins": 1419
+            }
+        ]
+    }
+}

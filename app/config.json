@@ -1,0 +1,22 @@
+{
+    "logging": {
+        "log_level": "DEBUG",
+        "log_format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    },
+    "connectors": {
+        "train_times_api": {
+            "base_url": "https://transportapi.com/v3/uk/train",
+            "dev_mode": true,
+            "mock_data_path": "tests/data/example_response5.json",
+            "save_raw_data": true
+        }
+    },
+    "app": {
+        "cors_origins": [
+            "http://localhost:3000"
+        ]
+    },
+    "db": {
+        "database_url": "sqlite:///./trains.db"
+    }
+}

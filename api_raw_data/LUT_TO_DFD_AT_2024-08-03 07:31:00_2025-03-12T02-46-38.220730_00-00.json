@@ -1,0 +1,10 @@
+{
+    "date": "2024-08-03",
+    "time_of_day": "00:00",
+    "request_time": "2025-03-12T02:46:38+00:00",
+    "station_name": "Luton",
+    "station_code": "crs:LUT",
+    "departures": {
+        "all": []
+    }
+}

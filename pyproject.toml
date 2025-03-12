@@ -1,0 +1,16 @@
+[tool.ruff]
+[tool.ruff.lint]
+ignore = ["E501"]
+select = ["E", "F", "W", "N", "S", "T"]
+
+[tool.pytest.ini_options]
+pythonpath = "."
+
+[tool.coverage.run]
+omit = [
+    "*/__init__.py",
+    "app/utils/logger.py"
+]
+
+[tool.coverage.report]
+show_missing = true

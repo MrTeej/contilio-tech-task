@@ -1,0 +1,3377 @@
+{
+    "date": "2024-08-03",
+    "time_of_day": "00:00",
+    "request_time": "2025-03-12T03:00:03+00:00",
+    "station_name": "London Bridge",
+    "station_code": "crs:LBG",
+    "departures": {
+        "all": [
+            {
+                "mode": "train",
+                "service": "24659005",
+                "train_uid": "P96367",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "00:02",
+                "aimed_arrival_time": "00:01",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96367:2024-08-02.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "00:46",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "00:01",
+                "expected_departure_time": "00:02",
+                "best_arrival_estimate_mins": 1,
+                "best_departure_estimate_mins": 2
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97283",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "00:04",
+                "aimed_arrival_time": "00:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97283:2024-08-02.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "00:43",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "NO REPORT",
+                "expected_arrival_time": "00:02",
+                "expected_departure_time": "00:04",
+                "best_arrival_estimate_mins": 2,
+                "best_departure_estimate_mins": 4
+            },
+            {
+                "mode": "train",
+                "service": "24659005",
+                "train_uid": "P96370",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "00:31",
+                "aimed_arrival_time": "00:29",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96370:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "01:14",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "00:29",
+                "expected_departure_time": "00:31",
+                "best_arrival_estimate_mins": 29,
+                "best_departure_estimate_mins": 31
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97288",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "00:34",
+                "aimed_arrival_time": "00:32",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97288:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "2",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "01:12",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "00:32",
+                "expected_departure_time": "00:34",
+                "best_arrival_estimate_mins": 32,
+                "best_departure_estimate_mins": 34
+            },
+            {
+                "mode": "train",
+                "service": "24659005",
+                "train_uid": "P96283",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "05:09",
+                "aimed_arrival_time": "05:08",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96283:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "05:53",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "05:08",
+                "expected_departure_time": "05:09",
+                "best_arrival_estimate_mins": 308,
+                "best_departure_estimate_mins": 309
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97110",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "05:34",
+                "aimed_arrival_time": "05:32",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97110:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "06:12",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "05:32",
+                "expected_departure_time": "05:34",
+                "best_arrival_estimate_mins": 332,
+                "best_departure_estimate_mins": 334
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96287",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "06:06",
+                "aimed_arrival_time": "06:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96287:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "06:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "06:05",
+                "expected_departure_time": "06:06",
+                "best_arrival_estimate_mins": 365,
+                "best_departure_estimate_mins": 366
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96291",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "06:36",
+                "aimed_arrival_time": "06:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96291:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "07:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "06:35",
+                "expected_departure_time": "06:36",
+                "best_arrival_estimate_mins": 395,
+                "best_departure_estimate_mins": 396
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97328",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "06:45",
+                "aimed_arrival_time": "06:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97328:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "07:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "06:43",
+                "expected_departure_time": "06:45",
+                "best_arrival_estimate_mins": 403,
+                "best_departure_estimate_mins": 405
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96293",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "07:06",
+                "aimed_arrival_time": "07:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96293:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "07:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "07:05",
+                "expected_departure_time": "07:06",
+                "best_arrival_estimate_mins": 425,
+                "best_departure_estimate_mins": 426
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97337",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "07:15",
+                "aimed_arrival_time": "07:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97337:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "07:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "07:13",
+                "expected_departure_time": "07:15",
+                "best_arrival_estimate_mins": 433,
+                "best_departure_estimate_mins": 435
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96296",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "07:36",
+                "aimed_arrival_time": "07:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96296:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "08:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "07:35",
+                "expected_departure_time": "07:36",
+                "best_arrival_estimate_mins": 455,
+                "best_departure_estimate_mins": 456
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97345",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "07:45",
+                "aimed_arrival_time": "07:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97345:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "08:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "07:43",
+                "expected_departure_time": "07:45",
+                "best_arrival_estimate_mins": 463,
+                "best_departure_estimate_mins": 465
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97134",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "08:04",
+                "aimed_arrival_time": "08:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97134:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "08:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "08:02",
+                "expected_departure_time": "08:04",
+                "best_arrival_estimate_mins": 482,
+                "best_departure_estimate_mins": 484
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96298",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "08:06",
+                "aimed_arrival_time": "08:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96298:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "08:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "08:05",
+                "expected_departure_time": "08:06",
+                "best_arrival_estimate_mins": 485,
+                "best_departure_estimate_mins": 486
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97354",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "08:15",
+                "aimed_arrival_time": "08:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97354:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "08:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "08:13",
+                "expected_departure_time": "08:15",
+                "best_arrival_estimate_mins": 493,
+                "best_departure_estimate_mins": 495
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96301",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "08:36",
+                "aimed_arrival_time": "08:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96301:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "09:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "08:35",
+                "expected_departure_time": "08:36",
+                "best_arrival_estimate_mins": 515,
+                "best_departure_estimate_mins": 516
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97363",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "08:45",
+                "aimed_arrival_time": "08:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97363:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "09:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "08:43",
+                "expected_departure_time": "08:45",
+                "best_arrival_estimate_mins": 523,
+                "best_departure_estimate_mins": 525
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97144",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "09:04",
+                "aimed_arrival_time": "09:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97144:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "09:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "09:02",
+                "expected_departure_time": "09:04",
+                "best_arrival_estimate_mins": 542,
+                "best_departure_estimate_mins": 544
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96303",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "09:06",
+                "aimed_arrival_time": "09:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96303:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "09:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "09:05",
+                "expected_departure_time": "09:06",
+                "best_arrival_estimate_mins": 545,
+                "best_departure_estimate_mins": 546
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97372",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "09:15",
+                "aimed_arrival_time": "09:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97372:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "09:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "09:13",
+                "expected_departure_time": "09:15",
+                "best_arrival_estimate_mins": 553,
+                "best_departure_estimate_mins": 555
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96305",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "09:36",
+                "aimed_arrival_time": "09:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96305:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "10:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "09:35",
+                "expected_departure_time": "09:36",
+                "best_arrival_estimate_mins": 575,
+                "best_departure_estimate_mins": 576
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97381",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "09:45",
+                "aimed_arrival_time": "09:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97381:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "10:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "09:43",
+                "expected_departure_time": "09:45",
+                "best_arrival_estimate_mins": 583,
+                "best_departure_estimate_mins": 585
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97155",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "10:04",
+                "aimed_arrival_time": "10:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97155:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "10:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "10:02",
+                "expected_departure_time": "10:04",
+                "best_arrival_estimate_mins": 602,
+                "best_departure_estimate_mins": 604
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96307",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "10:06",
+                "aimed_arrival_time": "10:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96307:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "10:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "10:05",
+                "expected_departure_time": "10:06",
+                "best_arrival_estimate_mins": 605,
+                "best_departure_estimate_mins": 606
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97390",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "10:15",
+                "aimed_arrival_time": "10:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97390:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "10:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "10:13",
+                "expected_departure_time": "10:15",
+                "best_arrival_estimate_mins": 613,
+                "best_departure_estimate_mins": 615
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96309",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "10:36",
+                "aimed_arrival_time": "10:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96309:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "11:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "10:35",
+                "expected_departure_time": "10:36",
+                "best_arrival_estimate_mins": 635,
+                "best_departure_estimate_mins": 636
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97400",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "10:45",
+                "aimed_arrival_time": "10:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97400:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "11:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "10:43",
+                "expected_departure_time": "10:45",
+                "best_arrival_estimate_mins": 643,
+                "best_departure_estimate_mins": 645
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97165",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "11:04",
+                "aimed_arrival_time": "11:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97165:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "11:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "11:02",
+                "expected_departure_time": "11:04",
+                "best_arrival_estimate_mins": 662,
+                "best_departure_estimate_mins": 664
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96311",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "11:06",
+                "aimed_arrival_time": "11:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96311:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "11:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "11:05",
+                "expected_departure_time": "11:06",
+                "best_arrival_estimate_mins": 665,
+                "best_departure_estimate_mins": 666
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97410",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "11:15",
+                "aimed_arrival_time": "11:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97410:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "11:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "11:13",
+                "expected_departure_time": "11:15",
+                "best_arrival_estimate_mins": 673,
+                "best_departure_estimate_mins": 675
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96314",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "11:36",
+                "aimed_arrival_time": "11:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96314:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "12:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "11:35",
+                "expected_departure_time": "11:36",
+                "best_arrival_estimate_mins": 695,
+                "best_departure_estimate_mins": 696
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97421",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "11:45",
+                "aimed_arrival_time": "11:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97421:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "12:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "11:43",
+                "expected_departure_time": "11:45",
+                "best_arrival_estimate_mins": 703,
+                "best_departure_estimate_mins": 705
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97175",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "12:04",
+                "aimed_arrival_time": "12:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97175:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "12:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "12:02",
+                "expected_departure_time": "12:04",
+                "best_arrival_estimate_mins": 722,
+                "best_departure_estimate_mins": 724
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96316",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "12:06",
+                "aimed_arrival_time": "12:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96316:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "12:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "12:05",
+                "expected_departure_time": "12:06",
+                "best_arrival_estimate_mins": 725,
+                "best_departure_estimate_mins": 726
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97431",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "12:15",
+                "aimed_arrival_time": "12:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97431:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "12:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "12:13",
+                "expected_departure_time": "12:15",
+                "best_arrival_estimate_mins": 733,
+                "best_departure_estimate_mins": 735
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96318",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "12:36",
+                "aimed_arrival_time": "12:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96318:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "13:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "12:35",
+                "expected_departure_time": "12:36",
+                "best_arrival_estimate_mins": 755,
+                "best_departure_estimate_mins": 756
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97441",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "12:45",
+                "aimed_arrival_time": "12:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97441:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "13:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "12:43",
+                "expected_departure_time": "12:45",
+                "best_arrival_estimate_mins": 763,
+                "best_departure_estimate_mins": 765
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97185",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "13:04",
+                "aimed_arrival_time": "13:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97185:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "13:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "13:02",
+                "expected_departure_time": "13:04",
+                "best_arrival_estimate_mins": 782,
+                "best_departure_estimate_mins": 784
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96320",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "13:06",
+                "aimed_arrival_time": "13:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96320:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "13:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "13:05",
+                "expected_departure_time": "13:06",
+                "best_arrival_estimate_mins": 785,
+                "best_departure_estimate_mins": 786
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97451",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "13:15",
+                "aimed_arrival_time": "13:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97451:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "13:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "13:13",
+                "expected_departure_time": "13:15",
+                "best_arrival_estimate_mins": 793,
+                "best_departure_estimate_mins": 795
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96322",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "13:36",
+                "aimed_arrival_time": "13:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96322:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "14:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "13:35",
+                "expected_departure_time": "13:36",
+                "best_arrival_estimate_mins": 815,
+                "best_departure_estimate_mins": 816
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97464",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "13:45",
+                "aimed_arrival_time": "13:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97464:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "14:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "13:43",
+                "expected_departure_time": "13:45",
+                "best_arrival_estimate_mins": 823,
+                "best_departure_estimate_mins": 825
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97197",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "14:04",
+                "aimed_arrival_time": "14:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97197:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "14:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "14:02",
+                "expected_departure_time": "14:04",
+                "best_arrival_estimate_mins": 842,
+                "best_departure_estimate_mins": 844
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96324",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "14:06",
+                "aimed_arrival_time": "14:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96324:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "14:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "14:05",
+                "expected_departure_time": "14:06",
+                "best_arrival_estimate_mins": 845,
+                "best_departure_estimate_mins": 846
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97470",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "14:15",
+                "aimed_arrival_time": "14:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97470:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "14:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "14:13",
+                "expected_departure_time": "14:15",
+                "best_arrival_estimate_mins": 853,
+                "best_departure_estimate_mins": 855
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96326",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "14:36",
+                "aimed_arrival_time": "14:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96326:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "15:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "14:35",
+                "expected_departure_time": "14:36",
+                "best_arrival_estimate_mins": 875,
+                "best_departure_estimate_mins": 876
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97475",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "14:45",
+                "aimed_arrival_time": "14:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97475:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "15:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "14:43",
+                "expected_departure_time": "14:45",
+                "best_arrival_estimate_mins": 883,
+                "best_departure_estimate_mins": 885
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97208",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:04",
+                "aimed_arrival_time": "15:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97208:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "15:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:02",
+                "expected_departure_time": "15:04",
+                "best_arrival_estimate_mins": 902,
+                "best_departure_estimate_mins": 904
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96328",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:06",
+                "aimed_arrival_time": "15:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96328:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "15:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:05",
+                "expected_departure_time": "15:06",
+                "best_arrival_estimate_mins": 905,
+                "best_departure_estimate_mins": 906
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97482",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:15",
+                "aimed_arrival_time": "15:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97482:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "15:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:13",
+                "expected_departure_time": "15:15",
+                "best_arrival_estimate_mins": 913,
+                "best_departure_estimate_mins": 915
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96330",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:36",
+                "aimed_arrival_time": "15:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96330:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "16:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:35",
+                "expected_departure_time": "15:36",
+                "best_arrival_estimate_mins": 935,
+                "best_departure_estimate_mins": 936
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97485",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "15:45",
+                "aimed_arrival_time": "15:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97485:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "16:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:43",
+                "expected_departure_time": "15:45",
+                "best_arrival_estimate_mins": 943,
+                "best_departure_estimate_mins": 945
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97216",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:04",
+                "aimed_arrival_time": "16:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97216:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "16:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:02",
+                "expected_departure_time": "16:04",
+                "best_arrival_estimate_mins": 962,
+                "best_departure_estimate_mins": 964
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96332",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:06",
+                "aimed_arrival_time": "16:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96332:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "16:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:05",
+                "expected_departure_time": "16:06",
+                "best_arrival_estimate_mins": 965,
+                "best_departure_estimate_mins": 966
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97307",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:15",
+                "aimed_arrival_time": "16:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97307:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "16:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:13",
+                "expected_departure_time": "16:15",
+                "best_arrival_estimate_mins": 973,
+                "best_departure_estimate_mins": 975
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96334",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:36",
+                "aimed_arrival_time": "16:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96334:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "17:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:35",
+                "expected_departure_time": "16:36",
+                "best_arrival_estimate_mins": 995,
+                "best_departure_estimate_mins": 996
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97315",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "16:45",
+                "aimed_arrival_time": "16:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97315:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "17:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:43",
+                "expected_departure_time": "16:45",
+                "best_arrival_estimate_mins": 1003,
+                "best_departure_estimate_mins": 1005
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97225",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "17:04",
+                "aimed_arrival_time": "17:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97225:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "17:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "17:02",
+                "expected_departure_time": "17:04",
+                "best_arrival_estimate_mins": 1022,
+                "best_departure_estimate_mins": 1024
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96336",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "17:06",
+                "aimed_arrival_time": "17:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96336:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "17:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "17:05",
+                "expected_departure_time": "17:06",
+                "best_arrival_estimate_mins": 1025,
+                "best_departure_estimate_mins": 1026
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97322",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "17:15",
+                "aimed_arrival_time": "17:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97322:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "17:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "17:13",
+                "expected_departure_time": "17:15",
+                "best_arrival_estimate_mins": 1033,
+                "best_departure_estimate_mins": 1035
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96338",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "17:36",
+                "aimed_arrival_time": "17:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96338:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "18:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "17:35",
+                "expected_departure_time": "17:36",
+                "best_arrival_estimate_mins": 1055,
+                "best_departure_estimate_mins": 1056
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97331",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "17:45",
+                "aimed_arrival_time": "17:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97331:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "18:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "17:43",
+                "expected_departure_time": "17:45",
+                "best_arrival_estimate_mins": 1063,
+                "best_departure_estimate_mins": 1065
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97234",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "18:04",
+                "aimed_arrival_time": "18:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97234:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "18:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "18:02",
+                "expected_departure_time": "18:04",
+                "best_arrival_estimate_mins": 1082,
+                "best_departure_estimate_mins": 1084
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96340",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "18:06",
+                "aimed_arrival_time": "18:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96340:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "18:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "18:05",
+                "expected_departure_time": "18:06",
+                "best_arrival_estimate_mins": 1085,
+                "best_departure_estimate_mins": 1086
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97340",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "18:15",
+                "aimed_arrival_time": "18:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97340:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "18:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "18:13",
+                "expected_departure_time": "18:15",
+                "best_arrival_estimate_mins": 1093,
+                "best_departure_estimate_mins": 1095
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96342",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "18:36",
+                "aimed_arrival_time": "18:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96342:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "19:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "18:35",
+                "expected_departure_time": "18:36",
+                "best_arrival_estimate_mins": 1115,
+                "best_departure_estimate_mins": 1116
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97348",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "18:45",
+                "aimed_arrival_time": "18:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97348:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "19:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "18:43",
+                "expected_departure_time": "18:45",
+                "best_arrival_estimate_mins": 1123,
+                "best_departure_estimate_mins": 1125
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97243",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "19:04",
+                "aimed_arrival_time": "19:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97243:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "19:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "19:02",
+                "expected_departure_time": "19:04",
+                "best_arrival_estimate_mins": 1142,
+                "best_departure_estimate_mins": 1144
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96344",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "19:06",
+                "aimed_arrival_time": "19:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96344:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "19:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "19:05",
+                "expected_departure_time": "19:06",
+                "best_arrival_estimate_mins": 1145,
+                "best_departure_estimate_mins": 1146
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97357",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "19:15",
+                "aimed_arrival_time": "19:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97357:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "19:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "19:13",
+                "expected_departure_time": "19:15",
+                "best_arrival_estimate_mins": 1153,
+                "best_departure_estimate_mins": 1155
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96346",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "19:36",
+                "aimed_arrival_time": "19:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96346:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "20:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "19:35",
+                "expected_departure_time": "19:36",
+                "best_arrival_estimate_mins": 1175,
+                "best_departure_estimate_mins": 1176
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97366",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "19:45",
+                "aimed_arrival_time": "19:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97366:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "20:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "19:43",
+                "expected_departure_time": "19:45",
+                "best_arrival_estimate_mins": 1183,
+                "best_departure_estimate_mins": 1185
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97252",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "20:04",
+                "aimed_arrival_time": "20:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97252:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "20:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "20:02",
+                "expected_departure_time": "20:04",
+                "best_arrival_estimate_mins": 1202,
+                "best_departure_estimate_mins": 1204
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96348",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "20:06",
+                "aimed_arrival_time": "20:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96348:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "20:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "20:05",
+                "expected_departure_time": "20:06",
+                "best_arrival_estimate_mins": 1205,
+                "best_departure_estimate_mins": 1206
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97375",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "20:15",
+                "aimed_arrival_time": "20:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97375:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "20:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "20:13",
+                "expected_departure_time": "20:15",
+                "best_arrival_estimate_mins": 1213,
+                "best_departure_estimate_mins": 1215
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96350",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "20:36",
+                "aimed_arrival_time": "20:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96350:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "21:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "20:35",
+                "expected_departure_time": "20:36",
+                "best_arrival_estimate_mins": 1235,
+                "best_departure_estimate_mins": 1236
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97384",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "20:45",
+                "aimed_arrival_time": "20:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97384:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "21:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "20:43",
+                "expected_departure_time": "20:45",
+                "best_arrival_estimate_mins": 1243,
+                "best_departure_estimate_mins": 1245
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97260",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "21:04",
+                "aimed_arrival_time": "21:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97260:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "21:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "21:02",
+                "expected_departure_time": "21:04",
+                "best_arrival_estimate_mins": 1262,
+                "best_departure_estimate_mins": 1264
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96352",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "21:06",
+                "aimed_arrival_time": "21:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96352:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "21:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "21:05",
+                "expected_departure_time": "21:06",
+                "best_arrival_estimate_mins": 1265,
+                "best_departure_estimate_mins": 1266
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97393",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "21:15",
+                "aimed_arrival_time": "21:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97393:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "21:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "21:13",
+                "expected_departure_time": "21:15",
+                "best_arrival_estimate_mins": 1273,
+                "best_departure_estimate_mins": 1275
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96354",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "21:36",
+                "aimed_arrival_time": "21:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96354:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "22:22",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "21:35",
+                "expected_departure_time": "21:36",
+                "best_arrival_estimate_mins": 1295,
+                "best_departure_estimate_mins": 1296
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97403",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "21:45",
+                "aimed_arrival_time": "21:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97403:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "22:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "21:43",
+                "expected_departure_time": "21:45",
+                "best_arrival_estimate_mins": 1303,
+                "best_departure_estimate_mins": 1305
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97267",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "22:04",
+                "aimed_arrival_time": "22:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97267:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "22:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:02",
+                "expected_departure_time": "22:04",
+                "best_arrival_estimate_mins": 1322,
+                "best_departure_estimate_mins": 1324
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96356",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "22:06",
+                "aimed_arrival_time": "22:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96356:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "22:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:05",
+                "expected_departure_time": "22:06",
+                "best_arrival_estimate_mins": 1325,
+                "best_departure_estimate_mins": 1326
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97413",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "22:15",
+                "aimed_arrival_time": "22:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97413:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "22:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:13",
+                "expected_departure_time": "22:15",
+                "best_arrival_estimate_mins": 1333,
+                "best_departure_estimate_mins": 1335
+            },
+            {
+                "mode": "train",
+                "service": "24659005",
+                "train_uid": "P97590",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "22:31",
+                "aimed_arrival_time": "22:29",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97590:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "4",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "23:14",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:29",
+                "expected_departure_time": "22:31",
+                "best_arrival_estimate_mins": 1349,
+                "best_departure_estimate_mins": 1351
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97269",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "22:34",
+                "aimed_arrival_time": "22:32",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97269:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "23:12",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:32",
+                "expected_departure_time": "22:34",
+                "best_arrival_estimate_mins": 1352,
+                "best_departure_estimate_mins": 1354
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96358",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "22:36",
+                "aimed_arrival_time": "22:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96358:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "23:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:35",
+                "expected_departure_time": "22:36",
+                "best_arrival_estimate_mins": 1355,
+                "best_departure_estimate_mins": 1356
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97423",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "22:45",
+                "aimed_arrival_time": "22:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97423:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "23:28",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:43",
+                "expected_departure_time": "22:45",
+                "best_arrival_estimate_mins": 1363,
+                "best_departure_estimate_mins": 1365
+            },
+            {
+                "mode": "train",
+                "service": "24659005",
+                "train_uid": "P96368",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:01",
+                "aimed_arrival_time": "22:59",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96368:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "4",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "23:44",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:59",
+                "expected_departure_time": "23:01",
+                "best_arrival_estimate_mins": 1379,
+                "best_departure_estimate_mins": 1381
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97274",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:04",
+                "aimed_arrival_time": "23:02",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97274:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "23:42",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "23:02",
+                "expected_departure_time": "23:04",
+                "best_arrival_estimate_mins": 1382,
+                "best_departure_estimate_mins": 1384
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96360",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:06",
+                "aimed_arrival_time": "23:05",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96360:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "3",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "23:52",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "23:05",
+                "expected_departure_time": "23:06",
+                "best_arrival_estimate_mins": 1385,
+                "best_departure_estimate_mins": 1386
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97433",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:15",
+                "aimed_arrival_time": "23:13",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97433:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "23:56",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "23:13",
+                "expected_departure_time": "23:15",
+                "best_arrival_estimate_mins": 1393,
+                "best_departure_estimate_mins": 1395
+            },
+            {
+                "mode": "train",
+                "service": "24659005",
+                "train_uid": "P96371",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:31",
+                "aimed_arrival_time": "23:29",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96371:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "4",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "00:14",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "23:29",
+                "expected_departure_time": "23:31",
+                "best_arrival_estimate_mins": 1409,
+                "best_departure_estimate_mins": 1411
+            },
+            {
+                "mode": "train",
+                "service": "24650005",
+                "train_uid": "P97278",
+                "platform": "7",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:34",
+                "aimed_arrival_time": "23:32",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97278:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "00:12",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "23:32",
+                "expected_departure_time": "23:34",
+                "best_arrival_estimate_mins": 1412,
+                "best_departure_estimate_mins": 1414
+            },
+            {
+                "mode": "train",
+                "service": "24658005",
+                "train_uid": "P96362",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:36",
+                "aimed_arrival_time": "23:35",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96362:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "2",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "00:23",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "23:35",
+                "expected_departure_time": "23:36",
+                "best_arrival_estimate_mins": 1415,
+                "best_departure_estimate_mins": 1416
+            },
+            {
+                "mode": "train",
+                "service": "24657005",
+                "train_uid": "P97442",
+                "platform": "6",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "23:45",
+                "aimed_arrival_time": "23:43",
+                "aimed_pass_time": null,
+                "origin_name": "London Charing Cross",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P97442:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "1",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "00:26",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "23:43",
+                "expected_departure_time": "23:45",
+                "best_arrival_estimate_mins": 1423,
+                "best_departure_estimate_mins": 1425
+            },
+            {
+                "mode": "train",
+                "service": "24659005",
+                "train_uid": "P96373",
+                "platform": "1",
+                "operator": "SE",
+                "operator_name": "Southeastern",
+                "aimed_departure_time": "00:01",
+                "aimed_arrival_time": "23:59",
+                "aimed_pass_time": null,
+                "origin_name": "London Cannon Street",
+                "destination_name": "Dartford",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/P96373:2024-08-03.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Dartford",
+                        "platform": "4",
+                        "station_code": "DFD",
+                        "tiploc_code": "DARTFD",
+                        "aimed_arrival_time": "00:45",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "23:59",
+                "expected_departure_time": "00:01",
+                "best_arrival_estimate_mins": 1439,
+                "best_departure_estimate_mins": 1441
+            }
+        ]
+    }
+}

@@ -1,0 +1,963 @@
+{
+    "date": "2024-08-04",
+    "time_of_day": "00:00",
+    "request_time": "2025-03-12T01:52:04+00:00",
+    "station_name": "Dartford",
+    "station_code": "crs:DFD",
+    "departures": {
+        "all": [
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54232",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "09:17",
+                "aimed_arrival_time": "09:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54232:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "10:57",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "09:15",
+                "expected_departure_time": "09:17",
+                "best_arrival_estimate_mins": 555,
+                "best_departure_estimate_mins": 557
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54238",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "09:47",
+                "aimed_arrival_time": "09:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54238:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "11:29",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "09:45",
+                "expected_departure_time": "09:47",
+                "best_arrival_estimate_mins": 585,
+                "best_departure_estimate_mins": 587
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54245",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "10:17",
+                "aimed_arrival_time": "10:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54245:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "11:57",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "10:15",
+                "expected_departure_time": "10:17",
+                "best_arrival_estimate_mins": 615,
+                "best_departure_estimate_mins": 617
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54251",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "10:47",
+                "aimed_arrival_time": "10:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54251:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "12:29",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "10:45",
+                "expected_departure_time": "10:47",
+                "best_arrival_estimate_mins": 645,
+                "best_departure_estimate_mins": 647
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54257",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "11:17",
+                "aimed_arrival_time": "11:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54257:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "13:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "11:15",
+                "expected_departure_time": "11:17",
+                "best_arrival_estimate_mins": 675,
+                "best_departure_estimate_mins": 677
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54263",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "11:47",
+                "aimed_arrival_time": "11:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54263:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "13:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "11:45",
+                "expected_departure_time": "11:47",
+                "best_arrival_estimate_mins": 705,
+                "best_departure_estimate_mins": 707
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54269",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "12:17",
+                "aimed_arrival_time": "12:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54269:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "14:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "12:15",
+                "expected_departure_time": "12:17",
+                "best_arrival_estimate_mins": 735,
+                "best_departure_estimate_mins": 737
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54274",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "12:47",
+                "aimed_arrival_time": "12:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54274:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "14:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "12:45",
+                "expected_departure_time": "12:47",
+                "best_arrival_estimate_mins": 765,
+                "best_departure_estimate_mins": 767
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54281",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "13:17",
+                "aimed_arrival_time": "13:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54281:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "15:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "13:15",
+                "expected_departure_time": "13:17",
+                "best_arrival_estimate_mins": 795,
+                "best_departure_estimate_mins": 797
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54286",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "13:47",
+                "aimed_arrival_time": "13:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54286:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "15:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "13:45",
+                "expected_departure_time": "13:47",
+                "best_arrival_estimate_mins": 825,
+                "best_departure_estimate_mins": 827
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54292",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "14:17",
+                "aimed_arrival_time": "14:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54292:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "16:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "14:15",
+                "expected_departure_time": "14:17",
+                "best_arrival_estimate_mins": 855,
+                "best_departure_estimate_mins": 857
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54298",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "14:47",
+                "aimed_arrival_time": "14:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54298:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "16:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "14:45",
+                "expected_departure_time": "14:47",
+                "best_arrival_estimate_mins": 885,
+                "best_departure_estimate_mins": 887
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54304",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "15:17",
+                "aimed_arrival_time": "15:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54304:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "17:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:15",
+                "expected_departure_time": "15:17",
+                "best_arrival_estimate_mins": 915,
+                "best_departure_estimate_mins": 917
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54310",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "15:47",
+                "aimed_arrival_time": "15:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54310:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "17:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "15:45",
+                "expected_departure_time": "15:47",
+                "best_arrival_estimate_mins": 945,
+                "best_departure_estimate_mins": 947
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54316",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:17",
+                "aimed_arrival_time": "16:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54316:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "18:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:15",
+                "expected_departure_time": "16:17",
+                "best_arrival_estimate_mins": 975,
+                "best_departure_estimate_mins": 977
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54322",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "16:47",
+                "aimed_arrival_time": "16:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54322:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "18:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "16:45",
+                "expected_departure_time": "16:47",
+                "best_arrival_estimate_mins": 1005,
+                "best_departure_estimate_mins": 1007
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54329",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "17:17",
+                "aimed_arrival_time": "17:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54329:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "19:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "17:15",
+                "expected_departure_time": "17:17",
+                "best_arrival_estimate_mins": 1035,
+                "best_departure_estimate_mins": 1037
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54334",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "17:47",
+                "aimed_arrival_time": "17:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54334:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "19:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "17:45",
+                "expected_departure_time": "17:47",
+                "best_arrival_estimate_mins": 1065,
+                "best_departure_estimate_mins": 1067
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54340",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "18:17",
+                "aimed_arrival_time": "18:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54340:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "20:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "18:15",
+                "expected_departure_time": "18:17",
+                "best_arrival_estimate_mins": 1095,
+                "best_departure_estimate_mins": 1097
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54344",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "18:47",
+                "aimed_arrival_time": "18:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54344:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "20:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "18:45",
+                "expected_departure_time": "18:47",
+                "best_arrival_estimate_mins": 1125,
+                "best_departure_estimate_mins": 1127
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54349",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "19:17",
+                "aimed_arrival_time": "19:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54349:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "21:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "19:15",
+                "expected_departure_time": "19:17",
+                "best_arrival_estimate_mins": 1155,
+                "best_departure_estimate_mins": 1157
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54355",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "19:47",
+                "aimed_arrival_time": "19:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54355:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "21:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "19:45",
+                "expected_departure_time": "19:47",
+                "best_arrival_estimate_mins": 1185,
+                "best_departure_estimate_mins": 1187
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54360",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "20:17",
+                "aimed_arrival_time": "20:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54360:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "22:00",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "20:15",
+                "expected_departure_time": "20:17",
+                "best_arrival_estimate_mins": 1215,
+                "best_departure_estimate_mins": 1217
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54366",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "20:47",
+                "aimed_arrival_time": "20:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54366:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "3",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "22:30",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "20:45",
+                "expected_departure_time": "20:47",
+                "best_arrival_estimate_mins": 1245,
+                "best_departure_estimate_mins": 1247
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54372",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "21:17",
+                "aimed_arrival_time": "21:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54372:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "23:02",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "21:15",
+                "expected_departure_time": "21:17",
+                "best_arrival_estimate_mins": 1275,
+                "best_departure_estimate_mins": 1277
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54378",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "21:47",
+                "aimed_arrival_time": "21:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54378:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "23:38",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "21:45",
+                "expected_departure_time": "21:47",
+                "best_arrival_estimate_mins": 1305,
+                "best_departure_estimate_mins": 1307
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54398",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "22:17",
+                "aimed_arrival_time": "22:15",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54398:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "23:58",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:15",
+                "expected_departure_time": "22:17",
+                "best_arrival_estimate_mins": 1335,
+                "best_departure_estimate_mins": 1337
+            },
+            {
+                "mode": "train",
+                "service": "22761000",
+                "train_uid": "G54387",
+                "platform": "2",
+                "operator": "TL",
+                "operator_name": "Thameslink",
+                "aimed_departure_time": "22:47",
+                "aimed_arrival_time": "22:45",
+                "aimed_pass_time": null,
+                "origin_name": "Rainham (Kent)",
+                "destination_name": "Luton",
+                "source": "Network Rail",
+                "category": "OO",
+                "service_timetable": {
+                    "id": "https://transportapi.com/v3/uk/train/service_timetables/G54387:2024-08-04.json?app_id=acbc2224&app_key=97089d7ffa372eea52a6c828d9e2f18e&live=true"
+                },
+                "station_detail": {
+                    "destination": {
+                        "station_name": "Luton",
+                        "platform": "2",
+                        "station_code": "LUT",
+                        "tiploc_code": "LUTON",
+                        "aimed_arrival_time": "00:35",
+                        "aimed_departure_time": null,
+                        "aimed_pass_time": null
+                    }
+                },
+                "status": "ON TIME",
+                "expected_arrival_time": "22:45",
+                "expected_departure_time": "22:47",
+                "best_arrival_estimate_mins": 1365,
+                "best_departure_estimate_mins": 1367
+            }
+        ]
+    }
+}
