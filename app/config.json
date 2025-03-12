@@ -6,9 +6,9 @@
     "connectors": {
         "train_times_api": {
             "base_url": "https://transportapi.com/v3/uk/train",
-            "dev_mode": true,
+            "dev_mode": false,
             "mock_data_path": "tests/data/example_response5.json",
-            "save_raw_data": true
+            "save_raw_data": false
         }
     },
     "app": {
