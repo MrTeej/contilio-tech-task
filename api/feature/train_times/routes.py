@@ -1,8 +1,8 @@
 from fastapi import APIRouter, HTTPException, Depends
-from app.feature.train_times.models import TrainTimeResponse, TrainTimeRequest
-from app.feature.train_times.services import TrainTimeService
-from app.utils.logger import logger
-from app.connectors.db.db_connector import (
+from api.feature.train_times.models import TrainTimeResponse, TrainTimeRequest
+from api.feature.train_times.services import TrainTimeService
+from api.utils.logger import logger
+from api.connectors.db.db_connector import (
     db_connector,
 )
 

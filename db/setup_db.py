@@ -1,4 +1,4 @@
-from app.connectors.db.db_connector import DatabaseConnector
+from api.connectors.db.db_connector import DatabaseConnector
 
 print("Setting up Database")
 db_connector = DatabaseConnector()

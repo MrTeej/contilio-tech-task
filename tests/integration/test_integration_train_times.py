@@ -1,8 +1,8 @@
 import pytest
 from httpx import AsyncClient, ASGITransport
 from unittest.mock import AsyncMock, patch
-from app.main import app
-from app.feature.train_times.models import TrainTimeRequest
+from api.main import app
+from api.feature.train_times.models import TrainTimeRequest
 
 mock_train_schedule = {
     "station_codes": ["LBG", "DFD"],

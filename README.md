@@ -156,3 +156,17 @@ The project uses a feature-based folder structure, where each core feature resid
 
 - **API Versioning**:
    - In a live project, I would add API versioning to ensure backward compatibility and smoother transitions for future changes.
+
+
+## Config Explanation
+
+```json
+"connectors": {
+    "train_times_api": {
+        "base_url": "https://transportapi.com/v3/uk/train",
+        "dev_mode": false,  // When true, uses mock_data_path for API response instead of making a call.
+        "mock_data_path": "tests/data/example_response5.json",
+        "save_raw_data": false  // When true, every API call made is saved in the api_raw_data folder.
+    }
+}
+```

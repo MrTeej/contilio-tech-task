@@ -3,10 +3,10 @@ from sqlalchemy.exc import IntegrityError
 from datetime import datetime, timedelta, timezone
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
-from app.connectors.db.base import Base
-from app.utils.date_helpers import get_start_window
-from app.connectors.db.models import TrainSchedule, APICallTracker
-from app.utils.config_loader import load_config
+from api.connectors.db.base import Base
+from api.utils.date_helpers import get_start_window
+from api.connectors.db.models import TrainSchedule, APICallTracker
+from api.utils.config_loader import load_config
 
 
 class DatabaseConnector:

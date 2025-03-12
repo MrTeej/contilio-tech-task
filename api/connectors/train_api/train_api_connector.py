@@ -2,17 +2,17 @@ from datetime import datetime, timedelta, timezone
 import json
 from urllib.parse import quote
 import httpx
-from app.utils.api_client import fetch_data
-from app.utils.config_loader import load_config
-from app.utils.date_helpers import (
+from api.utils.api_client import fetch_data
+from api.utils.config_loader import load_config
+from api.utils.date_helpers import (
     adjust_arrival_date,
     format_datetime_ISO8601,
     get_start_window,
     parse_time_with_date,
 )
-from app.utils.error_handler import TrainServiceError
-from app.utils.logger import logger
-from app.connectors.train_api.models import TrainStationData, TrainDeparture
+from api.utils.error_handler import TrainServiceError
+from api.utils.logger import logger
+from api.connectors.train_api.models import TrainStationData, TrainDeparture
 from dotenv import load_dotenv
 import os
 

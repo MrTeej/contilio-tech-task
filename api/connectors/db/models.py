@@ -6,7 +6,7 @@ from sqlalchemy import (
     DateTime,
     UniqueConstraint,
 )
-from app.connectors.db.base import Base
+from api.connectors.db.base import Base
 
 
 class TrainSchedule(Base):

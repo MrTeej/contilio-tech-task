@@ -1,10 +1,10 @@
 import pytest
 from unittest.mock import AsyncMock, MagicMock, patch
 from datetime import datetime, timedelta, timezone
-from app.feature.train_times.services import TrainTimeService
-from app.feature.train_times.models import TrainTimeRequest, TrainTimeResponse
-from app.connectors.db.models import TrainSchedule
-from app.utils.error_handler import TrainServiceError
+from api.feature.train_times.services import TrainTimeService
+from api.feature.train_times.models import TrainTimeRequest, TrainTimeResponse
+from api.connectors.db.models import TrainSchedule
+from api.utils.error_handler import TrainServiceError
 
 
 # Opted to only test a few files, but in real world scenario ideally test most code and ensure coverage 80+

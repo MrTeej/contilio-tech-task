@@ -3,7 +3,7 @@ from fastapi import HTTPException, Request
 from fastapi.responses import JSONResponse
 from pydantic import ValidationError
 
-from app.utils.logger import logger
+from api.utils.logger import logger
 
 
 class TrainServiceError(Exception):
