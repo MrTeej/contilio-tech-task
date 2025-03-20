@@ -39,7 +39,7 @@ class DatabaseConnector:
         start_time: datetime,
         max_wait_time: int,
     ) -> Optional[TrainSchedule]:
-        start_window = start_time
+        start_window = start_time  # Could add artificial 10/15mins to allow for platform changes etc.
         end_window = start_time + timedelta(minutes=max_wait_time)
 
         return (
