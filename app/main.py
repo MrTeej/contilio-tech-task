@@ -2,9 +2,9 @@ from fastapi import FastAPI
 from fastapi.exceptions import HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
-from api.feature.train_times.routes import router as train_times_router
-from api.utils.config_loader import load_config
-from api.utils.error_handler import (
+from app.feature.train_times.routes import router as train_times_router
+from app.utils.config_loader import load_config
+from app.utils.error_handler import (
     TrainServiceError,
     train_service_error,
     http_exception_handler,

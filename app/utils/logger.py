@@ -1,6 +1,6 @@
 import logging
 
-from api.utils.config_loader import load_config
+from app.utils.config_loader import load_config
 
 config = load_config()
 logging_config = config.get("logging", {})

@@ -2,8 +2,8 @@ import pytest
 import json
 from datetime import datetime, timedelta
 from pathlib import Path
-from api.connectors.train_api.train_api_connector import map_api_response_to_model
-from api.connectors.train_api.models import TrainStationData, TrainDeparture
+from app.connectors.train_api.train_api_connector import map_api_response_to_model
+from app.connectors.train_api.models import TrainStationData, TrainDeparture
 
 TEST_DATA_PATH = "tests/data/test_train_api_responses.json"
 

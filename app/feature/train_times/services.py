@@ -2,12 +2,12 @@ import asyncio
 from datetime import datetime, timedelta
 from fastapi import Depends
 from sqlalchemy.orm import Session
-from api.connectors.db.models import TrainSchedule
-from api.feature.train_times.models import TrainTimeResponse, TrainTimeRequest
-from api.connectors.train_api.train_api_connector import fetch_train_times
-from api.utils.error_handler import TrainServiceError
-from api.utils.logger import logger
-from api.connectors.db.db_connector import DatabaseConnector
+from app.connectors.db.models import TrainSchedule
+from app.feature.train_times.models import TrainTimeResponse, TrainTimeRequest
+from app.connectors.train_api.train_api_connector import fetch_train_times
+from app.utils.error_handler import TrainServiceError
+from app.utils.logger import logger
+from app.connectors.db.db_connector import DatabaseConnector
 
 
 class TrainTimeService:

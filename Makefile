@@ -1,8 +1,8 @@
 # Makefile for Project Maintenance
 
-PROJECT_DIR=./api
+PROJECT_DIR=./app
 TEST_DIR=./tests
-APP_MODULE=api.main:app
+APP_MODULE=app.main:app
 
 lint:
 	ruff check $(PROJECT_DIR)
